@@ -13,7 +13,7 @@
 	<body>
 		<nav class="navbar navbar-default" role="navigation">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="<c:url value='/' />">Teste Commit</a>
+				<a class="navbar-brand" href="<c:url value='/' />">TESTE BUILD AMBAS AS MAQUINAS</a>
 				<c:if test="${logado}">
 					<a class="navbar-brand" href="<c:url value='/produto/form' />">Novo produto</a>
 				</c:if>
